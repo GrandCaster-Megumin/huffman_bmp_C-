@@ -1,0 +1,5 @@
+﻿  huffman.cpp
+E:\QTP\testhuffman\testhuffman\huffman.cpp(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+E:\QTP\testhuffman\testhuffman\huffman.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+E:\QTP\testhuffman\testhuffman\huffman.cpp(114,5): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+  testhuffman.vcxproj -> E:\QTP\testhuffman\x64\Debug\testhuffman.exe
